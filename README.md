@@ -3,7 +3,7 @@
 
 I am a software developer having experience in building full stack projects. I'm based in Ahmedabad, Gujarat.
 
-Since 2020 i had a chance to work in multiple projects which helped me expand my perspective and make this little better with my code.
+Since 2020 i had a chance to work on multiple projects which helped me expand my perspective and make this world little better with my code.
 
 <h3>Things I code with</h3>
 
