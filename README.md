@@ -1,5 +1,4 @@
-<h1>
-<img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="30"/> Hey There, I'm Jatin Motwani.</h1>
+<h1> Hey There, I'm Jatin Motwani.</h1>
 
 I am a software developer having experience in building full stack projects. I'm based in Ahmedabad, Gujarat.
 
